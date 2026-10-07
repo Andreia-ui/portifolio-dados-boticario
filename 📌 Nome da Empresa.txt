@@ -1,0 +1,44 @@
+📌 Nome da Empresa
+Padaria Pão & Arte
+
+1. Cenário Atual
+Produção de pães e bolos de forma semi-artesanal.
+
+Falhas identificadas:
+
+Desperdício de matéria-prima (farinha, fermento) por falta de controle preciso.
+
+Ausência de monitoramento em tempo real da produção e dos equipamentos.
+
+Riscos de segurança alimentar por falta de rastreabilidade dos insumos.
+
+2. Tecnologias Habilitadoras Propostas
+Internet das Coisas (IoT): sensores em fornos e misturadores para monitorar temperatura, tempo e consumo de energia em tempo real.
+
+Big Data & Analytics: coleta e análise dos dados de produção para prever demanda, reduzir desperdícios e otimizar receitas.
+
+Sistemas de Rastreabilidade com Blockchain: registro digital dos insumos (farinha, ovos, leite) garantindo segurança alimentar e transparência para clientes.
+
+3. Benefícios e Visão Sistêmica
+Agilidade: processos automatizados reduzem tempo de produção e evitam erros manuais.
+
+Redução de Custos: menor desperdício de matéria-prima e otimização do uso de energia elétrica.
+
+Segurança: rastreabilidade garante confiança dos clientes e conformidade com normas sanitárias.
+
+Integração Sistêmica:
+
+Produção conectada ao estoque (IoT + Analytics).
+
+Vendas integradas ao planejamento de produção (previsão de demanda).
+
+Transparência para clientes e fornecedores (Blockchain).
+
+4. Resultados Esperados
+Economia de até 20% em insumos.
+
+Redução de 15% no consumo de energia.
+
+Aumento da satisfação do cliente pela confiança na qualidade e origem dos produtos.
+
+Maior competitividade frente a outras padarias locais.
