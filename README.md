@@ -15,8 +15,13 @@ Link: https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-A
 | B | B01 | Brasília | 3.0M | 5760 | 250B | 30 |
 | B | B02 | Salvador | 2.9M | 693 | 62B | 35 |
 
-### Projeto 2: Análise de Dados com Excel
-Gráficos criados no curso de Excel Fundamental.
+### Projeto 2: Análise de Valor em Estoque por Categoria
+Gráfico criado no Excel - Curso Excel Fundamental Treinapel.
+Análise para controle de estoque e tomada de decisão por categoria, essencial para Assistente de Categorias.
+
+![Grafico Valor Estoque](grafico_andreia.png)
+
+*Insight: Categoria C representa maior valor em estoque (R$ 2260), requer atenção para giro. Categoria B tem menor valor (R$ 540).*
 
 ### Tecnologias
 Excel | Word | PowerPoint | Análise por Categoria | Linguagem C | GitHub
