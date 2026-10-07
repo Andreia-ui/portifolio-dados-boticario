@@ -1,16 +1,27 @@
-# Andreia | Portfólio de Dados - Vaga Grupo Boticário
+# Portfólio de Dados - Andreia | Assistente de Categorias - Grupo Boticário
 
-Olá! Sou Andreia, estudante de Análise e Desenvolvimento de Sistemas na Estácio - 4º Período.
-Este é meu portfólio focado na vaga de **Assistente de Categorias (Dados)**.
+Olá! Sou Andreia, de Pedro Leopoldo - MG.
+Cursando Ciência da Computação 4º período (Estácio) | Técnico em Informática | Excel, Word, PowerPoint - Treinapel
 
-### 🚀 Sobre mim
-- Estudante de ADS | 4º período - Estácio
-- Foco em: Python, SQL, Excel Avançado e Looker Studio
-- Interesse em mercado de beleza, categorias e precificação
-- Morando em Divinópolis - MG
+Busco vaga como Assistente de Categorias no Grupo Boticário.
 
-### 📊 Projetos
-Em breve: Análise de vendas, categorização de produtos e dashboards.
+### Projeto 1: Super Trunfo Cidades - Análise por Categoria
+Link: https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-Andreia-ui
 
-### 🛠️ Tecnologias
-Python | SQL | Excel | Looker Studio | Git/GitHub
+| Estado | Código | Cidade | População | Área | PIB | Pontos |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| A | A01 | São Paulo | 12.3M | 1521 | 700B | 50 |
+| A | A02 | Rio de Janeiro | 6.7M | 1200 | 300B | 42 |
+| B | B01 | Brasília | 3.0M | 5760 | 250B | 30 |
+| B | B02 | Salvador | 2.9M | 693 | 62B | 35 |
+
+### Projeto 2: Análise de Dados com Excel
+Gráficos criados no curso de Excel Fundamental.
+
+### Tecnologias
+Excel | Word | PowerPoint | Análise por Categoria | Linguagem C | GitHub
+
+### Contato
+📞 31 99099-53681
+📧 andreiax615@gmail.com
+📍 Pedro Leopoldo, Minas Gerais
